@@ -1,6 +1,6 @@
 # 💫 About Me:
-I am a Software Engineering student who is passionate <br>about viedogames and wants to work in one in the future
-I also always loved art and design beacause of that I am leraning Web Dev
+I am a Software Engineering student who is passionate <br>about viedogames and wants to work in one in the future <br>
+I also always loved art and design beacause of that I am learning Web Dev
 
 
 ## 🌐 Socials:
