@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m a software engineering student <br>🌱 I’m currently learning front-end<br>⚡ Passionate about videogames
+🔭 I’m a software engineering student <br>🌱 I’m currently learning front-end<br>⚡ Passionate about videogames<br>
+Itch.io Games: https://iambluue.itch.io/ 
 
 
 ## 🌐 Socials:
