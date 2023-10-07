@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on anyhting related to front-end or videogames<br>🌱 I’m currently learning front-end and c++<br>⚡ Fun fact: I love videogames
+🌱 I’m currently learning front-end and c++<br>⚡ Fun fact: I love videogames
 
 
 ## 🌐 Socials:
