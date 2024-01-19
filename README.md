@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning front-end and c++<br>⚡ Fun fact: I love videogames
+🌱 Currently learning front-end and c++<br>⚡ Fun fact: I love videogames
 
 
 ## 🌐 Socials:
