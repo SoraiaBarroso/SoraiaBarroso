@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 Currently learning  pyhton<br>⚡ Fun fact: I love videogames <br>
-Unity project: https://iambluue.itch.io/space-ship-shooter
+🎮 Unity project: https://iambluue.itch.io/space-ship-shooter
 
 
 ## 🌐 Socials:
