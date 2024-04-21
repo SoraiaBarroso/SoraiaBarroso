@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Python<br>⚡ Fun fact I love videogames and art <br> Unity project https://iambluue.itch.io/space-ship-shooter
+🌱 I’m currently learning Python<br>⚡ Fun fact I love videogames and art <br> 🎮 Unity project https://iambluue.itch.io/space-ship-shooter
 
 
 ## 🌐 Socials:
