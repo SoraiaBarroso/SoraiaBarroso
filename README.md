@@ -8,7 +8,7 @@
 > ##### Currently working on ⛏️:
 > - Full Stack social media app with Nuxt.js.
 > ##### Algorithem projects 🤖:
->  - Shortest path algorithem using A* [my_mouse](https://github.com/SoraiaBarroso/My_Mouse_Project).
+>  - Find shortest path using A* algorithm [my_mouse](https://github.com/SoraiaBarroso/My_Mouse_Project).
 >  - Find the biggest square on a board [my_bsq](https://github.com/SoraiaBarroso/Bsq_Project).
 >  - Calculator using shunting-yard algorithm [my_bc](https://github.com/SoraiaBarroso/Bc_Project).
 > ##### Other projects 💻:
