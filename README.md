@@ -36,6 +36,6 @@
 >![](https://github-profile-trophy.vercel.app/?username=soraiaBarroso&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 >
 >---
->[![](https://visitcount.itsvg.in/api?id=soraiaBarroso&icon=0&color=1)](https://visitcount.itsvg.in)
+>[![](https://visitcount.itsvg.in/api?id=soraiaBarroso&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
