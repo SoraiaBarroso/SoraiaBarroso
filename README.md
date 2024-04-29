@@ -6,7 +6,7 @@
 > #
 > # Projects:
 > ##### Currently working on ⛏️:
-> - Full Stack social media app with Nuxt.js.
+> - Full Stack social media app with Nuxt 3, TailwindCSS and Prisma
 > ##### Algorithem projects 🤖:
 >  - Find shortest path using A* algorithm [my_mouse](https://github.com/SoraiaBarroso/My_Mouse_Project).
 >  - Find the biggest square on a board [my_bsq](https://github.com/SoraiaBarroso/Bsq_Project).
