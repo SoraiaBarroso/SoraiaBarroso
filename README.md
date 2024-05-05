@@ -23,7 +23,7 @@
 > - [space ship shooter](https://iambluue.itch.io/space-ship-shooter).
 > #
 > # Socials:
-> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/soraia-lima-cid-579b711b3)
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/soraia-lima-cid-579b711b3)
 > #
 >
 > # Tech Stack:
