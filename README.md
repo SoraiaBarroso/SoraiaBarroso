@@ -14,6 +14,7 @@
 > ##### Other projects 💻:
 > -  Implementation of [unix shell](https://github.com/SoraiaBarroso/My_zsh).
 > -  Implementation of Unix [curl](https://github.com/SoraiaBarroso/my_curl).
+> -  Implementation of dynamic memory allocation functions [malloc](https://github.com/SoraiaBarroso/my_malloc).
 > -  Implementation of standard C library functions in 'nasm 64' [my_libasm](https://github.com/SoraiaBarroso/my_libasm).
 > -  Implementation of [SQLite](https://github.com/SoraiaBarroso/my_sqlite).
 > -  Implementation of [BlockChain](https://github.com/SoraiaBarroso/Blockchain-Project).
