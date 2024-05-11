@@ -4,7 +4,7 @@
 >  - 🌱 I’m currently learning Python 
 >  - ⚡ Fun fact I love videogames and art
 > #
-> # Projects:
+> # Outstanding Projects:
 > ##### Currently working on ⛏️:
 > - Full Stack social media app with Nuxt 3, TailwindCSS and Prisma
 > ##### Algorithem projects 🤖:
@@ -19,7 +19,7 @@
 > -  Implementation of [SQLite](https://github.com/SoraiaBarroso/my_sqlite).
 > -  Implementation of [BlockChain](https://github.com/SoraiaBarroso/Blockchain-Project).
 > ##### Front End projects ✨:
-> -  Website in [React](https://techxproject.vercel.app/).
+> - [React Website](https://techxproject.vercel.app/).
 > ##### Unity project 🎮:
 > - [space ship shooter](https://iambluue.itch.io/space-ship-shooter).
 > #
