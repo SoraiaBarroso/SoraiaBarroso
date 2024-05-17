@@ -21,7 +21,7 @@
 > ##### Front End projects ✨:
 > - [React Website](https://techxproject.vercel.app/).
 > ##### Unity project 🎮:
-> - [space ship shooter](https://iambluue.itch.io/space-ship-shooter).
+> - [Space Ship Shooter](https://iambluue.itch.io/space-ship-shooter).
 > #
 > # Socials:
 > [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soraia-lima-cid-579b711b3/)
