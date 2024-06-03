@@ -1,7 +1,7 @@
 
 >  # About Me:
 >  - 👨‍💻 Software engineering student.
->  - 🌱 I’m currently learning Python 
+>  - 🌱 I’m currently learning Python and mastering my Web Development skills
 >  - ⚡ Fun fact I love videogames and art
 > #
 > # Outstanding Projects:
