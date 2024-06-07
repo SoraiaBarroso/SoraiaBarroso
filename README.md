@@ -3,6 +3,7 @@
 >  - 👨‍💻 Software engineering student.
 >  - 🌱 I’m currently learning Python and mastering my Web Development skills
 >  - ⚡ Fun fact I love videogames and art
+>  - 📧 Reach me anytime: sorilc@hotmail.com
 > #
 > # Outstanding Projects:
 > ##### Currently working on ⛏️:
