@@ -21,6 +21,7 @@
 > -  Implementation of [BlockChain](https://github.com/SoraiaBarroso/Blockchain-Project).
 > ##### Front End projects ✨:
 > - [React Website](https://techxproject.vercel.app/).
+> - [Capstone project React](https://github.com/SoraiaBarroso/capstone_front_end) for the Front-End Developer Professional Certificate offered by Meta
 > ##### Unity project 🎮:
 > - [Space Ship Shooter](https://iambluue.itch.io/space-ship-shooter).
 > #
