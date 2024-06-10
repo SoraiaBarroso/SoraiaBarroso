@@ -28,7 +28,6 @@
 > #
 > # Socials:
 > [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soraia-lima-cid-579b711b3/)
-> [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/project/195412724/Team-project?fuid=1330897067139002694)
 > #
 >
 > # Badges:
