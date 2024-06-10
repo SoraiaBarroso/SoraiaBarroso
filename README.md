@@ -31,6 +31,8 @@
 > [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/project/195412724/Team-project?fuid=1330897067139002694)
 > #
 >
+> # Badges:
+> ![meta-front-end-developer-certificate(2)](https://github.com/SoraiaBarroso/SoraiaBarroso/assets/115974717/d0d767f5-b436-414b-9917-0f0d6e75ae67)
 > # Tech Stack:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
