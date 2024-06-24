@@ -20,7 +20,7 @@
 > -  Implementation of [SQLite](https://github.com/SoraiaBarroso/my_sqlite).
 > -  Implementation of [BlockChain](https://github.com/SoraiaBarroso/Blockchain-Project).
 > ##### Front End projects ✨:
-> - [React Website](https://techxproject.vercel.app/).
+> - [React Website](https://techxproject.vercel.app/) developed for practice
 > - [Capstone project React](https://github.com/SoraiaBarroso/capstone_front_end) for the Front-End Developer Professional Certificate offered by Meta
 > ##### Unity project 🎮:
 > - [Space Ship Shooter](https://iambluue.itch.io/space-ship-shooter).
