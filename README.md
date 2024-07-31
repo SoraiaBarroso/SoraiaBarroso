@@ -25,13 +25,13 @@
 > ##### Unity project 🎮:
 > - [Space Ship Shooter](https://iambluue.itch.io/space-ship-shooter).
 > #
-> # Socials:
-> [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soraia-lima-cid-579b711b3/)
-> #
->
-> # Badges:
-> ![meta-front-end-developer-certificate(2)](https://github.com/SoraiaBarroso/SoraiaBarroso/assets/115974717/d0d767f5-b436-414b-9917-0f0d6e75ae67)
-> # Tech Stack:
+ # Socials:
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soraia-lima-cid-579b711b3/)
+ #
+
+ # Badges:
+ ![meta-front-end-developer-certificate(2)](https://github.com/SoraiaBarroso/SoraiaBarroso/assets/115974717/d0d767f5-b436-414b-9917-0f0d6e75ae67)
+ # Tech Stack:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -85,15 +85,14 @@
 </div>
 
 ###
-> #
-> # GitHub Stats:
->![](https://github-readme-streak-stats.herokuapp.com/?user=soraiaBarroso&theme=tokyonight&hide_border=true)
->![](https://github-readme-stats.vercel.app/api/top-langs/?username=soraiaBarroso&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
->
->## 🏆 GitHub Trophies
->![](https://github-profile-trophy.vercel.app/?username=soraiaBarroso&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
->
->---
->[![](https://visitcount.itsvg.in/api?id=soraiaBarroso&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+ #
+ # GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=soraiaBarroso&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=soraiaBarroso&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=soraiaBarroso&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+[![](https://visitcount.itsvg.in/api?id=soraiaBarroso&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
