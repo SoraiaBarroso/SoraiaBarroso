@@ -1,7 +1,7 @@
 
 >  # About Me:
 >  - 👨‍💻 Software engineering student.
->  - 🌱 I’m currently working in C++ and mastering my Web Development skills
+>  - 🌱 I’m currently working in C++ university projects and mastering my Web Development skills
 >  - ⚡ Fun fact I love videogames and art
 >  - 📧 Reach me anytime: sorilc@hotmail.com
 > #
