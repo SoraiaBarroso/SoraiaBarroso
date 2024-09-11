@@ -7,7 +7,6 @@
 > #
 > # Outstanding Projects:
 > ##### Currently working on ⛏️:
-> - Full Stack social media app with Nuxt 3, TailwindCSS, MongoDB and Prisma [Twitter clone](https://github.com/SoraiaBarroso/Full_Stack_Nuxt)
 > - Full Stack App with Vue.js, Socket.IO, SQLite, Express, and Node.js.
 > ##### Algorithem projects 🤖:
 >  - Find shortest path using A* algorithm [my_mouse](https://github.com/SoraiaBarroso/My_Mouse_Project).
@@ -20,9 +19,11 @@
 > -  Implementation of standard C library functions in 'nasm 64' [my_libasm](https://github.com/SoraiaBarroso/my_libasm).
 > -  Implementation of [SQLite](https://github.com/SoraiaBarroso/my_sqlite).
 > -  Implementation of [BlockChain](https://github.com/SoraiaBarroso/Blockchain-Project).
-> ##### Front End projects ✨:
+> ##### Front End ~ Full Stack projects ✨:
 > - [React Website](https://techxproject.vercel.app/) developed for practice
 > - [Capstone project React](https://github.com/SoraiaBarroso/capstone_front_end) for the Front-End Developer Professional Certificate offered by Meta
+> - [Twitter clone](https://github.com/SoraiaBarroso/Full_Stack_Nuxt) ~ Full Stack app with Nuxt 3, TailwindCSS, MongoDB and Prisma.
+
 > ##### Unity project 🎮:
 > - [Space Ship Shooter](https://iambluue.itch.io/space-ship-shooter).
 > #
