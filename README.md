@@ -7,7 +7,6 @@
 > #
 > # Outstanding Projects:
 > ##### Currently working on ⛏️:
-> - CRM application using ASP.NET, SQL Server.
 > - Full Stack App with Vue.js, Socket.IO, SQLite, Express, and Node.js.
 > ##### Algorithem projects 🤖:
 >  - Find shortest path using A* algorithm [my_mouse](https://github.com/SoraiaBarroso/My_Mouse_Project).
