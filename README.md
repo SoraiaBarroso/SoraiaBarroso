@@ -18,7 +18,7 @@
 > -  Implementation of dynamic memory allocation functions [malloc](https://github.com/SoraiaBarroso/my_malloc).
 > -  Implementation of standard C library functions in 'nasm 64' [my_libasm](https://github.com/SoraiaBarroso/my_libasm).
 > -  Implementation of [SQLite](https://github.com/SoraiaBarroso/my_sqlite).
-> -  Implementation of [BlockChain](https://github.com/SoraiaBarroso/Blockchain-Project).
+> -  Implementation of [Virtual Machine](https://github.com/SoraiaBarroso/my_virtual_machine).
 > ##### Front End ~ Full Stack projects ✨:
 > - [React Website](https://techxproject.vercel.app/) developed for practice
 > - [Capstone project React](https://github.com/SoraiaBarroso/capstone_front_end) for the Front-End Developer Professional Certificate offered by Meta
