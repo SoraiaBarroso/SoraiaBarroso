@@ -7,18 +7,19 @@
 > #
 > # Outstanding Projects:
 > ##### Currently working on ⛏️:
-> - Ftp in C++
+> - Redis client in C++
 > ##### Algorithem projects 🤖:
 >  - Find shortest path using A* algorithm [my_mouse](https://github.com/SoraiaBarroso/My_Mouse_Project).
 >  - Find the biggest square on a board [my_bsq](https://github.com/SoraiaBarroso/Bsq_Project).
 >  - Calculator using shunting-yard algorithm [my_bc](https://github.com/SoraiaBarroso/Bc_Project).
 > ##### Other projects 💻:
-> -  Implementation of [unix shell](https://github.com/SoraiaBarroso/My_zsh).
-> -  Implementation of Unix [curl](https://github.com/SoraiaBarroso/my_curl).
-> -  Implementation of dynamic memory allocation functions [malloc](https://github.com/SoraiaBarroso/my_malloc).
-> -  Implementation of standard C library functions in 'nasm 64' [my_libasm](https://github.com/SoraiaBarroso/my_libasm).
-> -  Implementation of [SQLite](https://github.com/SoraiaBarroso/my_sqlite).
-> -  Implementation of [Virtual Machine](https://github.com/SoraiaBarroso/my_abstract_vm).
+> -  Implementation of [unix shell](https://github.com/SoraiaBarroso/My_zsh). ~ C
+> -  Implementation of Unix [curl](https://github.com/SoraiaBarroso/my_curl). ~ C
+> -  Implementation of dynamic memory allocation functions [malloc](https://github.com/SoraiaBarroso/my_malloc). ~ C
+> -  Implementation of standard C library functions in 'nasm 64' [my_libasm](https://github.com/SoraiaBarroso/my_libasm). ~ nasm 64
+> -  Implementation of [SQLite](https://github.com/SoraiaBarroso/my_sqlite). ~ Ruby
+> -  Implementation of [Virtual Machine](https://github.com/SoraiaBarroso/my_abstract_vm). ~ C++
+> -  Implementation of [FTP server](https://github.com/SoraiaBarroso/my_ftp). ~ C++
 > ##### Front End ~ Full Stack projects ✨:
 > - [React Website](https://techxproject.vercel.app/) developed for practice
 > - [Capstone project React](https://github.com/SoraiaBarroso/capstone_front_end) for the Front-End Developer Professional Certificate offered by Meta
