@@ -8,6 +8,7 @@
 > # Outstanding Projects:
 > ##### Currently working on ⛏️:
 > - Redis client in C++
+> - Student tracking App for Amsterdam Tech
 > ##### Algorithem projects 🤖:
 >  - Find shortest path using A* algorithm [my_mouse](https://github.com/SoraiaBarroso/My_Mouse_Project).
 >  - Find the biggest square on a board [my_bsq](https://github.com/SoraiaBarroso/Bsq_Project).
