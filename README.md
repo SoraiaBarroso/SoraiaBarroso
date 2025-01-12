@@ -1,8 +1,7 @@
 
 >  # About Me:
 >  - 👨‍💻 Software engineering student.
->  - 🌱 I’m currently working in C++ university projects and mastering my Web Development skills
->  - ⚡ Fun fact I love videogames, traveling, reading and art. 
+>  - ⚡ Fun fact I love videogames, traveling, reading and art. I am always searching to learn new things.
 >  - 📧 Reach me anytime: sorilc@hotmail.com
 > #
 > # Outstanding Projects:
