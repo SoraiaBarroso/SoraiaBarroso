@@ -1,7 +1,7 @@
 
 >  # About Me:
 >  - 👩‍🎓 Software Engineering student.
->  - 👨‍💻 Working as Student Success Mentor
+>  - 👨‍💻 Working as Student Success Mentor and GUI Developer
 >  - ⚡ Fun fact I love videogames, traveling, reading and art. I am always searching to learn new things.
 >  - 📧 Reach me anytime: sorilc@hotmail.com
 > #
