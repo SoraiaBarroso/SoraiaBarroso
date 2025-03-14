@@ -34,7 +34,6 @@
  #
  # GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soraiaBarroso&theme=tokyonight&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=SoraiaBarroso&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soraiaBarroso&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
