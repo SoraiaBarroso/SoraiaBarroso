@@ -1,10 +1,7 @@
 
 >  # About Me:
->  - 👩‍🎓 Software Engineering student.
->  - 👨‍💻 Working as Student Success Mentor and GUI Developer
->  - ⚡ Fun fact I love videogames, traveling, reading and art. I am always searching to learn new things.
+>  - 👩‍🎓 Flexible and adaptive frontend developer with 1.5+ years of experience building web applications.
 >  - 📧 Reach me anytime: sorilc@hotmail.com
-> #
 > # Outstanding Projects:
 > ##### Currently working on ⛏️:
 > - Student tracking App for Amsterdam Tech
