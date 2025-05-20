@@ -17,7 +17,7 @@
 > -  Implementation of [SQLite](https://github.com/SoraiaBarroso/my_sqlite). ~ Ruby
 > -  Implementation of [Virtual Machine](https://github.com/SoraiaBarroso/my_abstract_vm). ~ C++
 > -  Implementation of [FTP server](https://github.com/SoraiaBarroso/my_ftp). ~ C++
-> -  Implementation of [Redis Client](https://github.com/SoraiaBarroso/my_redis_client). ~ C++
+> -  Implementation of [Redis Client and Server](https://github.com/SoraiaBarroso/redis_server). ~ C++
 > ##### Front End ~ Full Stack projects ✨:
 > - [React Website](https://techxproject.vercel.app/) developed for practice
 > - [Capstone project React](https://github.com/SoraiaBarroso/capstone_front_end) for the Front-End Developer Professional Certificate offered by Meta
