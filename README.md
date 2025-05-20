@@ -2,7 +2,7 @@
 >  # About Me:
 >  - 👩‍🎓 Flexible and adaptive frontend developer with 1.5+ years of experience building web applications.
 >  - 📧 Reach me anytime: sorilc@hotmail.com
-> # Outstanding Projects:
+> # Projects:
 > ##### Currently working on ⛏️:
 > - Student tracking App for Amsterdam Tech
 > ##### Algorithem projects 🤖:
