@@ -1,6 +1,6 @@
 
 >  # About Me:
->  - 👩‍🎓 Flexible and adaptive frontend developer with 1.5+ years of experience building web applications.
+>  - 👩‍🎓 Front-end developer with 1.5+ years of professional experience building interactive web applications using Vue.js, JavaScript, and Tailwind CSS.
 >  - 📧 Reach me anytime: sorilc@hotmail.com
 > # Projects:
 > ##### Currently working on ⛏️:
