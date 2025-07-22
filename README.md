@@ -3,8 +3,6 @@
 >  - 👩‍🎓 Front-end developer with 1.5+ years of professional experience building interactive web applications using Vue.js, JavaScript, and Tailwind CSS.
 >  - 📧 Reach me anytime: sorilc@hotmail.com
 > # Projects:
-> ##### Currently working on ⛏️:
-> - Student tracking App for Amsterdam Tech
 > ##### Algorithem projects 🤖:
 >  - Find shortest path using A* algorithm [my_mouse](https://github.com/SoraiaBarroso/My_Mouse_Project).
 >  - Find the biggest square on a board [my_bsq](https://github.com/SoraiaBarroso/Bsq_Project).
