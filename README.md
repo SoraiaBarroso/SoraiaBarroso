@@ -1,33 +1,48 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2f7b88a7-09e5-4db5-aa40-0cccdeca5518" alt="Soraia | Frontend Developer Banner">
+</p>
 
->  # About Me:
->  - 👩‍🎓 Front-end developer with 1.5+ years of professional experience building interactive web applications using Vue.js, JavaScript, and Tailwind CSS.
->  - 📧 Reach me anytime: sorilc@hotmail.com
-> # Projects:
-> ##### Algorithem projects 🤖:
->  - Find shortest path using A* algorithm [my_mouse](https://github.com/SoraiaBarroso/My_Mouse_Project).
->  - Find the biggest square on a board [my_bsq](https://github.com/SoraiaBarroso/Bsq_Project).
->  - Calculator using shunting-yard algorithm [my_bc](https://github.com/SoraiaBarroso/Bc_Project).
-> ##### Other projects 💻:
-> -  Implementation of [unix shell](https://github.com/SoraiaBarroso/My_zsh). ~ C
-> -  Implementation of Unix [curl](https://github.com/SoraiaBarroso/my_curl). ~ C
-> -  Implementation of dynamic memory allocation functions [malloc](https://github.com/SoraiaBarroso/my_malloc). ~ C
-> -  Implementation of standard C library functions in 'nasm 64' [my_libasm](https://github.com/SoraiaBarroso/my_libasm). ~ nasm 64
-> -  Implementation of [SQLite](https://github.com/SoraiaBarroso/my_sqlite). ~ Ruby
-> -  Implementation of [Virtual Machine](https://github.com/SoraiaBarroso/my_abstract_vm). ~ C++
-> -  Implementation of [FTP server](https://github.com/SoraiaBarroso/my_ftp). ~ C++
-> -  Implementation of [Redis Client and Server](https://github.com/SoraiaBarroso/redis_server). ~ C++
-> ##### Front End ~ Full Stack projects ✨:
-> - [React Website](https://techxproject.vercel.app/) developed for practice
-> - [Capstone project React](https://github.com/SoraiaBarroso/capstone_front_end) for the Front-End Developer Professional Certificate offered by Meta
-> - [Twitter clone](https://github.com/SoraiaBarroso/Full_Stack_Nuxt) ~ Full Stack app with Nuxt 3, TailwindCSS, MongoDB and Prisma.
-> ##### Unity project 🎮:
-> - [Space Ship Shooter](https://iambluue.itch.io/space-ship-shooter).
-> #
- # Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat-square&logo=apollo-graphql) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxt.js&logoColor=#00DC82) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat-square&logo=cmake&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat-square&logo=insomnia&logoColor=5849BE) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat-square&logo=apollo-graphql) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat-square&logo=cmake&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-###
- #
- # GitHub Stats:
+## 👋 Hey there!
+- I'm currently experimenting with **AI + Front-End**
+- 📧 [Email](mailto:sorilc@hotmail.com)
+
+## 🚀 Projects
+I've completed a wide range of projects in C and C++, focusing on algorithms, low-level systems, and performance. While I can't list everything here, below are some of my most impactful and representative works:
+
+### 🧠 Systems & Algorithm Projects
+- 🐭 [**my_mouse**](https://github.com/SoraiaBarroso/My_Mouse_Project) – Pathfinding using the A* algorithm.
+- 📡 [**my_ftp**](https://github.com/SoraiaBarroso/my_ftp) – Multithreaded FTP server in C++.
+- 🖥️ [**my_abstract_vm**](https://github.com/SoraiaBarroso/my_abstract_vm) – Stack-based virtual machine in C++.
+- 🧠 [**redis_server**](https://github.com/SoraiaBarroso/redis_server) – Redis-like client and server implementation in C++.
+
+### ✨ Front-End & Full Stack Projects
+- 🐦 [**Twitter Clone**](https://github.com/SoraiaBarroso/Full_Stack_Nuxt) – Full Stack social app with Nuxt 3, TailwindCSS, MongoDB, and Prisma.
+- 📘 [**Capstone Project**](https://github.com/SoraiaBarroso/capstone_front_end) – Final front-end project for Meta’s Professional Certificate.
+- 🌐 [**React Practice Website**](https://techxproject.vercel.app/) – Clean responsive tech site built with React and TailwindCSS.
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+`JavaScript` `C` `C++` `Ruby` `Python`
+
+### 🌐 Front-End
+`HTML` `CSS` `Vue.js` `React.js` `Nuxt` `Tailwind CSS` `NaiveUI`  
+`GraphQL` `RESTful APIs` `WebSockets` `Gradio UI`
+
+### ⚙️ Tools & Frameworks
+`Node.js` `Express.js` `FastAPI` `ComfyUI`  
+`Jira` `Scrum` `GitHub Actions`
+
+### 🗃️ Databases
+`MySQL` `MongoDB` `SQL Server` `Supabase`
+
+### 🔧 Version Control
+`Git` `GitHub` `Bitbucket`
+
+### 🎨 Design & Prototyping
+`Figma` `Framer`
+
+# GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soraiaBarroso&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soraiaBarroso&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
