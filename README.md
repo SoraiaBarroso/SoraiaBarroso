@@ -3,8 +3,11 @@
 </p>
 
 ## 👋 Hey there!
-- I'm currently experimenting with **AI + Front-End**
-- 📧 [Email](mailto:sorilc@hotmail.com)
+### 🚀 What I'm Up To
+
+- Exploring and experimenting with **AI + Front-End**
+- Building my **Final Project** for my Software Engineering degree  
+- 📧 Feel free to reach out: [sorilc@hotmail.com](mailto:sorilc@hotmail.com)
 
 ## 🚀 Projects
 I've completed a wide range of projects in C and C++, focusing on algorithms, low-level systems, and performance. While I can't list everything here, below are some of my most impactful and representative works:
@@ -50,5 +53,3 @@ I've completed a wide range of projects in C and C++, focusing on algorithms, lo
 ![](https://github-profile-trophy.vercel.app/?username=soraiaBarroso&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 [![](https://visitcount.itsvg.in/api?id=soraiaBarroso&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
