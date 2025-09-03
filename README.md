@@ -12,6 +12,9 @@
 ## 🚀 Projects
 I've completed a wide range of projects in C and C++, focusing on algorithms, low-level systems, and performance. While I can't list everything here, below are some of my most impactful and representative works:
 
+### ✨ Open Source / Research Projects
+- ✨ [**HISI**](https://github.com/Diabolocom-Research/HISI-interface?utm_source=chatgpt.com) – Real-Time ASR Evaluation Tool – Lead Front-End Developer
+ 
 ### 🧠 Systems & Algorithm Projects
 - 🐭 [**my_mouse**](https://github.com/SoraiaBarroso/My_Mouse_Project) – Pathfinding using the A* algorithm.
 - 📡 [**my_ftp**](https://github.com/SoraiaBarroso/my_ftp) – Multithreaded FTP server in C++.
