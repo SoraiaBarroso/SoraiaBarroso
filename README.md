@@ -5,7 +5,7 @@
 ## 👋 Hey there!
 ### 🚀 What I'm Up To
 
-- Exploring and experimenting with **AI + Front-End**
+- Building [MiroMiro](https://miromiro.app/)
 - Building my **Final Project** for my Software Engineering degree  
 - 📧 Feel free to reach out: [sorilc@hotmail.com](mailto:sorilc@hotmail.com)
 
