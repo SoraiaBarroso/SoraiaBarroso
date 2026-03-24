@@ -6,7 +6,7 @@
 ### 🚀 What I'm Up To
 
 - Building [MiroMiro](https://miromiro.app/)
-- Building my **Final Project** for my Software Engineering degree  
+- Building [PocketUI](https://pocketui.app/)
 - 📧 Feel free to reach out: [sorilc@hotmail.com](mailto:sorilc@hotmail.com)
 
 ## 🚀 Projects
