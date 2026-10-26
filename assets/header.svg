@@ -22,7 +22,7 @@ text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono
 .pupil{animation:look 9s cubic-bezier(.6,0,.3,1) infinite}
 .scanline{animation:scan 4.5s linear infinite}
 .live{animation:pulse 1.6s ease-in-out infinite}
-.caret{animation:caret 1s step-end infinite 5.80s;opacity:0}
+.caret{animation:caret 1s step-end infinite 5.53s;opacity:0}
 .frame{animation:glow 4s ease-in-out infinite}
 </style>
 <defs>
@@ -111,9 +111,9 @@ text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono
 <g><text x="488" y="212" class="k">Studying</text><text x="580" y="212" class="v">MSc UX design @ UOC</text><rect x="486" y="198" width="265" height="20" fill="#08101c" style="animation:reveal 0.52s steps(29) 2.60s both;--w:265px"/></g>
 <g><text x="488" y="247" class="h">HUMAN.SIGNAL</text><rect x="486" y="233" width="120" height="20" fill="#08101c" style="animation:reveal 0.30s steps(13) 3.18s both;--w:120px"/></g>
 <g><text x="488" y="274" class="k">Built</text><text x="580" y="274" class="v">MiroMiro · PocketUI</text><rect x="486" y="260" width="265" height="20" fill="#08101c" style="animation:reveal 0.52s steps(29) 3.54s both;--w:265px"/></g>
-<g><text x="488" y="301" class="k">Revenue</text><text x="580" y="301" class="v">$55,000+ gross, solo</text><rect x="486" y="287" width="274" height="20" fill="#08101c" style="animation:reveal 0.54s steps(30) 4.12s both;--w:274px"/></g>
-<g><text x="488" y="328" class="k">Off-hours</text><text x="580" y="328" class="v">photos · food · pokémon</text><rect x="486" y="314" width="300" height="20" fill="#08101c" style="animation:reveal 0.59s steps(33) 4.72s both;--w:300px"/></g>
-<g><text x="488" y="355" class="k">X</text><text x="580" y="355" class="v">@SoraiaDev</text><rect x="486" y="341" width="188" height="20" fill="#08101c" style="animation:reveal 0.36s steps(20) 5.38s both;--w:188px"/></g></g>
+<g><text x="488" y="301" class="k">Revenue</text><text x="580" y="301" class="v">$55k+</text><rect x="486" y="287" width="145" height="20" fill="#08101c" style="animation:reveal 0.27s steps(16) 4.12s both;--w:145px"/></g>
+<g><text x="488" y="328" class="k">Off-hours</text><text x="580" y="328" class="v">photos · food · pokémon</text><rect x="486" y="314" width="300" height="20" fill="#08101c" style="animation:reveal 0.59s steps(33) 4.45s both;--w:300px"/></g>
+<g><text x="488" y="355" class="k">X</text><text x="580" y="355" class="v">@SoraiaDev</text><rect x="486" y="341" width="188" height="20" fill="#08101c" style="animation:reveal 0.36s steps(20) 5.11s both;--w:188px"/></g></g>
 <rect x="580" y="385" width="9" height="15" fill="#5eead4" class="caret"/>
 <text x="876" y="455" text-anchor="end" class="lbl" style="opacity:.45">github.com/SoraiaBarroso</text>
 </svg>
