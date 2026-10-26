@@ -10,7 +10,7 @@
 
 ## hey, i'm soraia 👋
 
-i'm a software engineer turned solo founder, building from a small village in galicia, spain.
+i'm a software engineer turned solo founder.
 
 i studied software engineering, spent my early days deep in c and c++ (malloc, virtual machines, ftp servers, the fun stuff), then fell in love with the frontend and spent a couple of years building products for other companies. in december 2024 i got tired of digging through devtools to grab a font or an svg, so i built a tool to do it for me. that side project became my job.
 
@@ -28,13 +28,12 @@ today i design, code, market and support everything myself. no co-founder, no fu
 - **[pocketui](https://pocketui.app)** · *coming soon.* a library of real UI you collect yourself, ready for your AI agents.
 - **[HISI](https://github.com/Diabolocom-Research/HISI-interface)** · real-time speech recognition evaluation tool, where i was lead frontend dev.
 
-## things i believe
+## a bit more about me
 
-```txt
-> distribution beats features. a great product nobody finds is a hobby.
-> write for your ideal customer, not for traffic.
-> the software of the future is agent ready, not click-by-click.
-```
+- 🌊 spanish-portuguese, even though i spend half of the year traveling
+- 📷 my sony a6400 comes everywhere with me
+- 🍜 passionate about food, i like to try everything
+- 🎮 a bit nerdy. i love video games and collecting pokémon cards
 
 ## how i spend my days
 
@@ -42,8 +41,7 @@ today i design, code, market and support everything myself. no co-founder, no fu
 building    vue · nuxt · typescript · tailwind · node · supabase
 hosting     hetzner · coolify · aws ses · listmonk   (i like owning my stack)
 studying    master's in interaction design & ux @ UOC   (purely for the love of design)
-writing     building in public on X, essays on medium
-off-screen  photography, good food, travel, pokémon fangames
+writing     building in public on X
 ```
 
 <details>
@@ -59,6 +57,19 @@ off-screen  photography, good food, travel, pokémon fangames
 - [**twitter_clone_nuxt**](https://github.com/SoraiaBarroso/twitter_clone_nuxt) · full stack Nuxt 3, Tailwind, MongoDB, Prisma
 
 </details>
+
+## let's work together
+
+i also freelance. if you need someone who can design, build and ship the whole thing, i'm your person:
+
+- frontend apps and dashboards 
+- landing pages and seo pages built for organic traffic (it's how miromiro grows)
+- chrome extensions, from idea to the web store
+- apis and mcp servers so your product works with ai agents
+
+or just share interesting ideas with me. weird ones welcome 👀
+
+📩 [sorilc@hotmail.com](mailto:sorilc@hotmail.com) · dms open on [X](https://x.com/SoraiaDev)
 
 <br/>
 
