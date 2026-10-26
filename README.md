@@ -1,58 +1,69 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2f7b88a7-09e5-4db5-aa40-0cccdeca5518" alt="Soraia | Frontend Developer Banner">
-</p>
+<div align="center">
 
-## 👋 Hey there!
-### 🚀 What I'm Up To
+<img src="./assets/header.svg" width="100%" alt="Soraia Barroso, solo founder and engineer from Galicia, Spain"/>
 
-- Building [MiroMiro](https://miromiro.app/)
-- Building [PocketUI](https://pocketui.app/)
-- 📧 Feel free to reach out: [sorilc@hotmail.com](mailto:sorilc@hotmail.com)
+<a href="https://x.com/SoraiaDev"><img src="https://img.shields.io/badge/@SoraiaDev-05080f?style=for-the-badge&logo=x&logoColor=white" alt="X @SoraiaDev"/></a>
+<a href="https://www.linkedin.com/in/soraia-fern%C3%A1ndez-579b711b3/"><img src="https://img.shields.io/badge/linkedin-05080f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:sorilc@hotmail.com"><img src="https://img.shields.io/badge/say_hi-05080f?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
 
-## 🚀 Projects
-I've completed a wide range of projects in C and C++, focusing on algorithms, low-level systems, and performance. While I can't list everything here, below are some of my most impactful and representative works:
+</div>
 
-### ✨ Open Source / Research Projects
-- ✨ [**HISI**](https://github.com/Diabolocom-Research/HISI-interface?utm_source=chatgpt.com) – Real-Time ASR Evaluation Tool – Lead Front-End Developer
- 
-### 🧠 Systems & Algorithm Projects
-- 🐭 [**my_mouse**](https://github.com/SoraiaBarroso/My_Mouse_Project) – Pathfinding using the A* algorithm.
-- 📡 [**my_ftp**](https://github.com/SoraiaBarroso/my_ftp) – Multithreaded FTP server in C++.
-- 🖥️ [**my_abstract_vm**](https://github.com/SoraiaBarroso/my_abstract_vm) – Stack-based virtual machine in C++.
-- 🧠 [**redis_server**](https://github.com/SoraiaBarroso/redis_server) – Redis-like client and server implementation in C++.
+## hey, i'm soraia 👋
 
-### ✨ Front-End & Full Stack Projects
-- 🐦 [**Twitter Clone**](https://github.com/SoraiaBarroso/Full_Stack_Nuxt) – Full Stack social app with Nuxt 3, TailwindCSS, MongoDB, and Prisma.
-- 📘 [**Capstone Project**](https://github.com/SoraiaBarroso/capstone_front_end) – Final front-end project for Meta’s Professional Certificate.
-- 🌐 [**React Practice Website**](https://techxproject.vercel.app/) – Clean responsive tech site built with React and TailwindCSS.
+i'm a software engineer turned solo founder, building from a small village in galicia, spain.
 
-## 🛠️ Tech Stack
+i studied software engineering, spent my early days deep in c and c++ (malloc, virtual machines, ftp servers, the fun stuff), then fell in love with the frontend and spent a couple of years building products for other companies. in december 2024 i got tired of digging through devtools to grab a font or an svg, so i built a tool to do it for me. that side project became my job.
 
-### 💻 Languages
-`JavaScript` `C` `C++` `Ruby` `Python`
+today i design, code, market and support everything myself. no co-founder, no funding, no team. just shipping and learning in public.
 
-### 🌐 Front-End
-`HTML` `CSS` `Vue.js` `React.js` `Nuxt` `Tailwind CSS` `NaiveUI`  
-`GraphQL` `RESTful APIs` `WebSockets` `Gradio UI`
+<img src="./assets/stats.svg" width="100%" alt="20K+ installs, $55K+ gross sales, 5K+ followers on X, 1 person team"/>
 
-### ⚙️ Tools & Frameworks
-`Node.js` `Express.js` `FastAPI` `ComfyUI`  
-`Jira` `Scrum` `GitHub Actions`
+## the road so far
 
-### 🗃️ Databases
-`MySQL` `MongoDB` `SQL Server` `Supabase`
+<img src="./assets/founder-log.svg" width="100%" alt="ASCII portrait of Soraia next to a git log of her journey, from a software engineering degree to solo founder"/>
 
-### 🔧 Version Control
-`Git` `GitHub` `Bitbucket`
+## what i've built
 
-### 🎨 Design & Prototyping
-`Figma` `Framer`
+- **[miromiro](https://miromiro.app)** · my first product. it looks at any website and gives you its design back as real code and assets. now an extension, an API, an MCP server, a ChatGPT app and an n8n node. 20K+ installs, $55K+ in gross sales, Chrome Web Store featured.
+- **[pocketui](https://pocketui.app)** · *coming soon.* a library of real UI you collect yourself, ready for your AI agents.
+- **[HISI](https://github.com/Diabolocom-Research/HISI-interface)** · real-time speech recognition evaluation tool, where i was lead frontend dev.
 
-# GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=soraiaBarroso&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soraiaBarroso&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+## things i believe
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=soraiaBarroso&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+```txt
+> distribution beats features. a great product nobody finds is a hobby.
+> write for your ideal customer, not for traffic.
+> the software of the future is agent ready, not click-by-click.
+```
 
-[![](https://visitcount.itsvg.in/api?id=soraiaBarroso&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+## how i spend my days
+
+```txt
+building    vue · nuxt · typescript · tailwind · node · supabase
+hosting     hetzner · coolify · aws ses · listmonk   (i like owning my stack)
+studying    master's in interaction design & ux @ UOC   (purely for the love of design)
+writing     building in public on X, essays on medium
+off-screen  photography, good food, travel, pokémon fangames
+```
+
+<details>
+<summary><b>the c/c++ era</b> &nbsp;(where i learned how computers actually work)</summary>
+<br/>
+
+- [**redis_server**](https://github.com/SoraiaBarroso/redis_server) · Redis-like client and server in C++
+- [**my_ftp**](https://github.com/SoraiaBarroso/my_ftp) · multithreaded FTP server in C++
+- [**my_abstract_vm**](https://github.com/SoraiaBarroso/my_abstract_vm) · stack-based virtual machine in C++
+- [**my_malloc**](https://github.com/SoraiaBarroso/my_malloc) · dynamic memory allocation from scratch in C
+- [**my_mouse**](https://github.com/SoraiaBarroso/my_mouse_project) · A* pathfinding through a labyrinth
+- [**my_sqlite**](https://github.com/SoraiaBarroso/my_sqlite) · a tiny SQLite in Ruby
+- [**twitter_clone_nuxt**](https://github.com/SoraiaBarroso/twitter_clone_nuxt) · full stack Nuxt 3, Tailwind, MongoDB, Prisma
+
+</details>
+
+<br/>
+
+<img src="./assets/rocket.svg" width="100%" alt="Rocket shooting at a contribution grid"/>
+
+<div align="center">
+<sub>made in galicia · always shipping something</sub>
+</div>
